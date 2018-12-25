@@ -15,6 +15,11 @@ return [
             "title" => "Första sidan, börja här.",
         ],
         [
+            "text" => "Test",
+            "url" => "test",
+            "title" => "En testsida.",
+        ],
+        [
             "text" => "Redovisning",
             "url" => "redovisning",
             "title" => "Redovisningstexter från kursmomenten.",
